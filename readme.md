@@ -51,4 +51,4 @@ The application allows you to switch between different database files, enabling 
 
 
 ## Donate
-If you find the application useful, you can support the project with a donation: <a target='_blank' href='https://www.paypal.com/donate/?hosted_button_id=RUM6J38PN3FE4'>Donate PayPal</a><hr>You can find other applications on the developer’s <a href='https://github.com/michaelfedorchenko' target='_blank'>GitHub</a>
+If you find the application useful, you can support the project with a donation: <a target='_blank' href='https://www.paypal.com/donate/?hosted_button_id=RUM6J38PN3FE4'>Donate PayPal</a>
