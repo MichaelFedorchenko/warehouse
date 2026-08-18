@@ -1,7 +1,21 @@
 <img src="assets/icon-256.png" width="48" height="48" alt="Logo" align="left" style="margin-right: 15px;" />
 <h1>Warehouse</h1>
+
 <br clear="left" />
 
+<p>
+<h3>Released new version: 18 aug 2026</h3>
+<div>
+    <a href="https://github.com/MichaelFedorchenko/warehouse/releases/tag/v1.7">
+        <img src="https://img.shields.io/badge/Warehouse%20App%20Relase-v1.7.1-orange" height=25>
+    </a>
+</div>
+<div>
+    <a href="https://github.com/MichaelFedorchenko/WarehouseServer">
+        <img src="https://img.shields.io/badge/Warehouse%20Standalone%20Server-v1.7-blue" height=25>
+    </a>
+</div>
+</p>
 
 ## About Application
 **Warehouse** is an application for keeping track of items and quickly finding them in a workshop, laboratory, garage, or warehouse.
@@ -37,6 +51,14 @@ The **Search** feature (located in the Search tab) instantly finds the item you 
 <div align="center">
     <img src="assets/screenshot-settings-tab.png" width="80%" alt="Screenshot Settings Tab" />
 </div>
+Screenshot of Warehouse v1.6
+
+
+<div align="center">
+    <img src="assets/Screenshot-v1.7.png" width="80%" alt="Screenshot Settings Tab" />
+</div>
+Screenshot of Warehouse v1.7.1 - added remote server with database
+
 The application allows you to switch between different database files, enabling you to logically separate multiple distinct storage locations.
 
 
