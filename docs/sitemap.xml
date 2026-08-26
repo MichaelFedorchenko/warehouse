@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/adminpanel/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/api/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/desktopapp/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/inventory/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://michaelfedorchenko.github.io/warehouse/server/</loc>
+         <lastmod>2026-08-26</lastmod>
+    </url>
 </urlset>
